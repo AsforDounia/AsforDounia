@@ -7,8 +7,6 @@
 *Building innovative solutions with clean code and creative design*
 
 [![Email](https://img.shields.io/badge/Email-asfordounia@gmail.com-0078D4?style=flat-square&logo=gmail)](mailto:asfordounia@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B212%20657%20325%20060-25D366?style=flat-square&logo=whatsapp)](https://wa.me/212657325060)
-[![Location](https://img.shields.io/badge/Location-Casablanca%2C%20Morocco-FF6B6B?style=flat-square&logo=googlemaps)](https://maps.google.com)
 
 </div>
 
