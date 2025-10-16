@@ -1,111 +1,160 @@
+# Asfor Dounia
 
-<!--
-**AsforDounia/AsforDounia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+### 💻 Full Stack Developer | 🚀 JavaScript Specialist
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi there 👋 I'm Asfor Dounia
+*Building innovative solutions with clean code and creative design*
 
-**Full Stack Developer** | JavaScript Specialist | Problem Solver
+[![Email](https://img.shields.io/badge/Email-asfordounia@gmail.com-0078D4?style=flat-square&logo=gmail)](mailto:asfordounia@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-%2B212%20657%20325%20060-25D366?style=flat-square&logo=whatsapp)](https://wa.me/212657325060)
+[![Location](https://img.shields.io/badge/Location-Casablanca%2C%20Morocco-FF6B6B?style=flat-square&logo=googlemaps)](https://maps.google.com)
 
-Welcome to my GitHub! I'm a passionate full stack developer based in Casablanca, Morocco. I love creating innovative solutions and tackling complex technical challenges. My expertise spans both front-end and back-end development, allowing me to deliver comprehensive, creative solutions.
+</div>
 
 ---
 
-## 🚀 About Me
+## 🎯 About
 
-I'm a full stack developer with a strong foundation in JavaScript, currently advancing my skills through specialized training at YouCode (OCP/UM6P). I combine technical expertise with a problem-solving mindset to build scalable, user-centric applications. I thrive in collaborative team environments and adapt quickly to new technologies and challenges.
+Passionate full stack developer with expertise in creating scalable, user-centric web applications. Currently advancing my skills at **YouCode (OCP/UM6P)**, specializing in JavaScript. I combine technical excellence with creative problem-solving to deliver innovative digital solutions.
 
----
-
-## 💻 Tech Stack
-
-**Frontend**
-- HTML5, CSS3, Tailwind CSS, Bootstrap
-- JavaScript, ReactJS
-- Figma (Design & Prototyping)
-
-**Backend**
-- PHP, Laravel
-- Node.js, Express
-- C
-- RESTful APIs
-
-**Databases**
-- MySQL, PostgreSQL
-- SQLServer, MongoDB
-
-**Tools & Methods**
-- Git, GitHub, Jira, GitHub Actions
-- Docker
-- Postman, Insomnia, Swagger
-- UML, Merise (Data Modeling)
-- Unit & Integration Testing
+```
+💡 What drives me: Clean code | User Experience | Innovative Solutions | Continuous Learning
+```
 
 ---
 
-## 🎓 Education
+## 🛠️ Tech Arsenal
 
-**Full Stack Development - JavaScript Specialization**  
-YouCode (OCP/UM6P) | 2024 – 2026 | Nador
+<table>
+<tr>
+<td width="50%">
 
-**Specialized Technician in Digital Development - Web Full Stack**  
-Institut Spécialisé de Technologie Appliquée | 2021 – 2023 | Casablanca
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-**Baccalauréat in Physical Sciences**  
-Lycée Mostapha Elmaani | 2018 – 2019 | Casablanca
+</td>
+<td width="50%">
+
+### Backend
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%">
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
+![SQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+</td>
+<td width="50%">
+
+### Tools & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 💼 Professional Experience
+## 🚀 Featured Projects
 
-**Internship - Highness Digital** (May – July 2025) | Kenitra
+### 📊 Synk-tools-Export
+**Multi-format Export Application** | May – July 2025
 
-- **Synk-tools-Export**: Developed a multi-format export application (HTML, PDF, Excel, Word, Images) for UX tools with cross-device support (Desktop/Tablet/Mobile). Integrated maatwebsite/excel, phpoffice/phpword, and spatie/browsershot libraries.
+> Export UX tools data in multiple formats with responsive design
 
-- **SynkAnnotation**: Built a real-time collaborative annotation platform with contextual comments, visual markers, and notifications system.
-  - *Tech Stack*: Laravel (PHP), MySQL, JavaScript, ReactJS, HTML/CSS, UML, Git, RESTful API
+- 📁 Multi-format export: HTML, PDF, Excel, Word, Images
+- 📱 Cross-device support: Desktop, Tablet, Mobile
+- 🎨 Seamless integration with UX workflows
 
-**Internship - Institut Spécialisé de Technologie Appliquée** (May – June 2023) | Casablanca
-
-- Developed "Réserver des Ressources" web application with advanced features focused on optimal user experience
-- Actively participated in collaborative web projects within the team
-  - *Tech Stack*: Laravel (PHP), MySQL, UML, HTML, CSS, JavaScript
+**Tech Stack:** Laravel • ReactJS • MySQL • JavaScript • RESTful API
 
 ---
 
-## 🎯 Key Skills
+### 💬 SynkAnnotation
+**Real-time Collaborative Annotation Platform** | May – July 2025
 
-- **Problem Solving**: Tackling complex technical challenges with creative solutions
-- **Team Collaboration**: Working effectively in collaborative environments
-- **Adaptability**: Quickly learning and adapting to new technologies
-- **Full Stack Development**: Seamless integration of frontend and backend solutions
+> Empower teams with real-time annotation and contextual feedback
 
----
+- 🔄 Real-time collaboration system
+- 💭 Contextual comments & visual markers
+- 🔔 Smart notification system
+- 📍 Contextual feedback tracking
 
-## 🌐 Languages
-
-- **Arabic**: Native
-- **English**: Intermediate
-- **French**: Intermediate
+**Tech Stack:** Laravel • ReactJS • MySQL • JavaScript • Git • UML
 
 ---
 
-## 📫 Get in Touch
+### 📦 Réserver des Ressources
+**Resource Reservation Web Application** | May – June 2023
 
-- **Email**: asfordounia@gmail.com
-- **Phone**: +212 657 325 060
-- **Location**: Casablanca, Morocco
+> Streamlined resource booking system with optimized UX
+
+- ✨ Advanced feature set
+- 🎯 User-centric interface design
+- 👥 Team collaboration tools
+
+**Tech Stack:** Laravel • MySQL • JavaScript • HTML/CSS
 
 ---
 
-*Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate or discuss interesting projects!* 🚀
+## 💪 Core Competencies
+
+```
+✨ Full Stack Architecture      ⚡ Performance Optimization    🔐 Secure Development
+🎨 UI/UX Implementation         🤝 Team Collaboration          📚 Technical Documentation
+🧩 Problem Solving             🚀 Rapid Prototyping           🔄 RESTful API Design
+```
+
+---
+
+## 🌍 Languages
+
+| Language | Level |
+|----------|-------|
+| 🇲🇦 Arabe | Native |
+| 🇬🇧 English | Intermediate |
+| 🇫🇷 Français | Intermediate |
+
+---
+
+## 📈 Currently
+
+- 🎓 Specializing in **JavaScript Full Stack Development** at YouCode
+- 🔧 Building scalable web applications with **React & Laravel**
+- 📖 Expanding expertise in **modern DevOps practices**
+- 🤝 Open to **collaboration** on innovative projects
+
+---
+
+<div align="center">
+
+### Let's Connect! 🚀
+
+**[📧 Email Me](mailto:asfordounia@gmail.com)** • **[💬 WhatsApp](https://wa.me/212657325060)** • **[🌐 Casablanca, Morocco](https://maps.google.com)**
+
+</div>
